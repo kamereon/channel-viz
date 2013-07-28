@@ -28,7 +28,7 @@
 		if(value) {
 			return value[1];
 		} else {
-			return "&timezone=Berlin";
+			return "";
 		}
 	}
 
